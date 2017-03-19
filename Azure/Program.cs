@@ -15,6 +15,7 @@ namespace Azure
         public int LL { get; set; }
         public int LLL { get; set; }
         public int Abar { get; set; }
+        public string amiocalak { get; set; }
     }
 
     class Program
