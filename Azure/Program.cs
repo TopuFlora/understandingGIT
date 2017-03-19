@@ -12,6 +12,7 @@ namespace Azure
     {
         public string[] ColumnNames { get; set; }
         public string[,] Values { get; set; }
+        public int LL { get; set; }
         public int LLL { get; set; }
         public int Abar { get; set; }
     }
